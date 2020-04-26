@@ -17,4 +17,4 @@ npm start
 Right now the website will do POST requests to my personal FakeBox. In the event that it does not exist anymore, you will need to create one by yourself.
 
 
-thanks for looking at my project :)
+thanks for looking at my project and please ignore my awful commit names :)
